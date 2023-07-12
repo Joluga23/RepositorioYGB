@@ -1,2 +1,1 @@
-# RepositorioYGB
-Probando mi repositorio..
+ygb
